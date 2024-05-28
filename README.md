@@ -1,11 +1,12 @@
-# 자율 프로젝트
+# LBO(엘보)
 
 ## 프로젝트 요약
 
 ---
 |제목|내용|
 |:---:|:---|
-|프로젝트 명|LBO (시각장애인 실내 안내 로봇 대여 서비스)|
+|프로젝트 명|LBO (엘보)|
+|프로젝트 주제|시각장애인 실내 안내 로봇 대여 서비스|
 |프로젝트 기간|2024.04.09. ~ 2024.05.17.|
 |주최|삼성 청년 SW 아카데미|
 |팀 구성| 정현우(팀장), 김승배, 김영래, 김태환, 박건률, 정원영|
@@ -25,8 +26,8 @@
 |:---:|:---|:---|:---|
 |1|[프로젝트 보고서](./Docs/Project%20Report.md)|프로젝트 전반적인 내용 및 결과 기록| <img src="https://img.shields.io/badge/현재 작성 중-%23FF6F00?style=for-the-badge&logoColor=white">|
 |2|[안내 로봇 문서](./Robot/README.md)|안내 로봇 사용법 및 개발 내용 정리| <img src="https://img.shields.io/badge/작성 예정-%23E7352C?style=for-the-badge&logoColor=white">|
-|3|[안내 손잡이 문서](./Handle/README.md)|안내 손잡이 사용법 및 개발 내용 정리| <img src="https://img.shields.io/badge/현재 작성 중-%23FF6F00?style=for-the-badge&logoColor=white">|
-|4|[Setup 프로그램 문서](./Qt/README.md)|대여자 초기 세팅 메뉴얼| <img src="https://img.shields.io/badge/현재 작성 중-%23FF6F00?style=for-the-badge&logoColor=white">|
+|3|[안내 손잡이 문서](./Handle/README.md)|안내 손잡이 사용법 및 개발 내용 정리| <img src="https://img.shields.io/badge/작성 완료-%41CD52?style=for-the-badge&logoColor=white">|
+|4|[Setup 프로그램 문서](./Qt/README.md)|대여자 초기 세팅 메뉴얼| <img src="https://img.shields.io/badge/작성 완료-%41CD52?style=for-the-badge&logoColor=white">|
 
 ## 문서 이력
 |Ver.|Desc.|Author|Date|Notes|
