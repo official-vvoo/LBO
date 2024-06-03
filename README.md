@@ -1,5 +1,4 @@
-# LBO(엘보)
-
+![LBO Intro](./Docs/images/LBO%20Intro.jpeg)
 ## 프로젝트 요약
 
 ---
@@ -24,11 +23,15 @@
 ## 주요 문서
 |No.|Doc.|Desc.|Notes|
 |:---:|:---|:---|:---|
-|1|[프로젝트 보고서](./Docs/Project%20Report.md)|프로젝트 전반적인 내용 및 결과 기록| <img src="https://img.shields.io/badge/현재 작성 중-%23FF6F00?style=for-the-badge&logoColor=white">|
+|1|[프로젝트 보고서](./Docs/Project%20Report.md)|프로젝트 전반적인 내용 및 결과 기록| <img src="https://img.shields.io/badge/작성 완료-%41CD52?style=for-the-badge&logoColor=white">|
 |2|[안내 로봇 문서](./Robot/README.md)|안내 로봇 사용법 및 개발 내용 정리| <img src="https://img.shields.io/badge/작성 예정-%23E7352C?style=for-the-badge&logoColor=white">|
 |3|[안내 손잡이 문서](./Handle/README.md)|안내 손잡이 사용법 및 개발 내용 정리| <img src="https://img.shields.io/badge/작성 완료-%41CD52?style=for-the-badge&logoColor=white">|
 |4|[Setup 프로그램 문서](./Qt/README.md)|대여자 초기 세팅 메뉴얼| <img src="https://img.shields.io/badge/작성 완료-%41CD52?style=for-the-badge&logoColor=white">|
-
+<!-- 
+<img src="https://img.shields.io/badge/작성 예정-%23E7352C?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/현재 작성 중-%23FF6F00?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/작성 완료-%41CD52?style=for-the-badge&logoColor=white">
+ -->
 ## 문서 이력
 |Ver.|Desc.|Author|Date|Notes|
 |:---:|:---|:---:|:---:|:---|
